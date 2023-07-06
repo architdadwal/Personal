@@ -5,7 +5,10 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <h1>Heey this is a portfolio website built using nextjs</h1>
+        <h1> hey welcome to nextJS </h1>
+      </div>
+      <div className={styles.description}>
+        <p> We are goiong to create a new web app </p>
       </div>
     </main>
   );
